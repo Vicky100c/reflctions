@@ -15,7 +15,8 @@ organized? How would branches help?
 	When users want to do some experiences and not sure how it is going, creat a new
 	branch can avoid to destory the old files and at the same time do the test.
 How do the diagrams help you visualize the branch structure?
-
+	It will visualized show the commits befor have the branch ,and the commits after 
+	being branched, users can very easy to find the different between two branches.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
