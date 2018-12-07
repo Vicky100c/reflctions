@@ -2,7 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 	to link these files in git, then when I commit the changes, the git can trails them.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-
+	Only saving the changes that you want to save from the staging are, save the min but must be saved changes in the repository.
+	
 How can you use the staging area to make sure you have one commit per logical
 change?
 
