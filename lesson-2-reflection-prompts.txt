@@ -19,6 +19,7 @@ organized? How would branches help?
 	being branched, users can very easy to find the different between two branches.
 6.What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+	It will conbine two branche's files into the unique files. In the diagram it shows 
+	how the files changes, and the time they sperated and conbined.
 7.What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
