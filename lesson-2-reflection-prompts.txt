@@ -9,11 +9,11 @@ How can you use the staging area to make sure you have one commit per logical
 change?
 	Use commend 'git status' to check the changes weather been saved, check the changes
 	between working directory and staging area and repository, to make sure you have 
-	one commit per logical
-change
+	one commit per logical change
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-
+	When users want to do some experiences and not sure how it is going, creat a new
+	branch can avoid to destory the old files and at the same time do the test.
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
