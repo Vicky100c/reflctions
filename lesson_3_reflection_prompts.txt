@@ -21,7 +21,8 @@ use one instead of another?
 4.What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    When you edit files out of online, you can control the remote repository's status, it will
+    help you to choice which part you want to push next.
 
 5.How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
