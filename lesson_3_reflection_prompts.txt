@@ -34,4 +34,6 @@ and what would be harder?
 6.When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You will want to make changes in a separate branch rather than directly in
+master when the changes is  temporary or maybe not the right version should do.
+Make changes in master may convenient, but could raise the risk of more problems.
