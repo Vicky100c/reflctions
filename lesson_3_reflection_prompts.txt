@@ -27,7 +27,9 @@ stored locally?
 5.How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Collaborate with other without using Git or GitHub, you must write down all the changes or conflicts
+    by yourself, to fix problem, you also need to save some old versions.
+    It is more convenient to use the tools to manage files,
 
 6.When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
